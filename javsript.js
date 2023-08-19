@@ -16,7 +16,7 @@ GastosMês.push({ //adicionando objeto dentro do array cestacompra
     
 });
 
-//alert(cestaCompra[0].Name)verificação da ocorrrencia dentro do array.
+//alert(GastosMês[0].Nom_Conta)verificação da ocorrrencia dentro do array.
 let box = document.querySelector('.conteiner-box'); //recolhendo a classe estilizada com css. 
 box.innerHTML=""; //limpando a pag.
 
